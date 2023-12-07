@@ -16,3 +16,11 @@
 ## Menambah Data (Create)
 <img width="960" alt="Gambar menambah data" src="https://github.com/Akramfarrasanto/Lab8Web/assets/115552876/3c39a3ec-7448-4f94-93ec-19bd497706cc">
 
+<img width="960" alt="Gambar hasil menambah data" src="https://github.com/Akramfarrasanto/Lab8Web/assets/115552876/4b029cab-2071-4d82-a61c-bfe24fa3e3e0">
+
+<img width="960" alt="Gambar hasil ubah data" src="https://github.com/Akramfarrasanto/Lab8Web/assets/115552876/5c0535e8-2d30-4f56-b48b-9d7bb2b90530">
+
+## Menghapus Data (Delete)
+<img width="960" alt="Gambar kode menghapus data" src="https://github.com/Akramfarrasanto/Lab8Web/assets/115552876/4a7f4069-8c65-45f9-83a9-d8e07c9b2575">
+
+<img width="960" alt="Gambar hasil hapus data" src="https://github.com/Akramfarrasanto/Lab8Web/assets/115552876/8b4cd1ff-8675-4173-8427-f116fd842379">
